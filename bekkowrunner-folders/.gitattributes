@@ -1,0 +1,24 @@
+# Unreal Engine assetleri için Git LFS kullanımı
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.uplugin filter=lfs diff=lfs merge=lfs -text
+*.uproject filter=lfs diff=lfs merge=lfs -text
+*.uproperties filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
+*.sln filter=lfs diff=lfs merge=lfs -text
+*.suo filter=lfs diff=lfs merge=lfs -text
+*.vcxproj filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.max filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.spp filter=lfs diff=lfs merge=lfs -text
+*.ZPR filter=lfs diff=lfs merge=lfs -text
+*.ZTL filter=lfs diff=lfs merge=lfs -text
+*.ZTLA filter=lfs diff=lfs merge=lfs -text
+*.mtl filter=lfs diff=lfs merge=lfs -text
+*.zmo filter=lfs diff=lfs merge=lfs -text
+*.zsl filter=lfs diff=lfs merge=lfs -text
+
